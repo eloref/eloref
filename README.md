@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**eloref/eloref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙂 Profile
+- **Name:** Jinseong Kim
+- **Department:** Computer Science and Engineering (컴퓨터공학과)
+- **University:** SeoulTech University (서울과학기술대학교)
 
-Here are some ideas to get you started:
+## 🌏 Interests
+- 💻 Programming
+- 🍿 Watching a movie
+- 📚 Reading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- **GitHub:** [github.com/eloref](https://github.com/eloref)
+- **Email:** 
